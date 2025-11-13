@@ -281,7 +281,7 @@ Pythonプログラム開発環境の概要を説明する。詳細について�
 
 **5.1 `Jupyter`によるブラウザ上でのPythonプログラミング**
 
-![Jupyter](img\JupyterNotebook07.png)
+![Jupyter](img\JupyterNotebook07.png,"jupyter")
 
 **5.3 クラウド環境(`Google Colaboratory`)上でのPythonプログラミング**
 
