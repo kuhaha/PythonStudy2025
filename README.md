@@ -371,7 +371,7 @@ plt.ylabel(f'体重(kg)', fontname='MS Gothic')
 plt.show()
 ```
 
-![](img\scatter.png)
+![](img/scatter.png)
 
 **6.4 自然言語解析・言語モデルの利用**
 
