@@ -1,8 +1,9 @@
 """
 パッケージ、`__init__.py`及び`__all__`に関するテスト
 """
-
-from pkg import *
+# パッケージから一括importするだけ
+# モジュール(foo, bar)をいちいちimportしなくて済む
+from pkg import * 
 
 a, b = 20, 30
 print(f"a={a}, b={b}")
