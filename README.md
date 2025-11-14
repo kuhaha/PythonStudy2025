@@ -117,7 +117,10 @@ print(words.get('ChatGPT', 'わからない'))
 point = {'S':4, 'A':3, 'B': 2, 'C':1, 'D':0, 'E':0}
 grades = ['A', 'S', 'B', 'A', 'D', 'A', 'S']
 credits= [2, 2, 4, 2, 2, 1]
+
+# 内包表記で、SABCD表記の成績からポイントへ変換する 
 points = [point[g] for g in grades]
+
 print(f"grades={grades}")
 print(f"points={points}")
 print(f"credits={credits}")
