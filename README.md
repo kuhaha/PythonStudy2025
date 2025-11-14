@@ -127,7 +127,7 @@ print(f"credits={credits}")
 
 #出力：
 # grades=['A', 'S', 'B', 'A', 'D', 'A', 'S']
-# grade_points=[3, 4, 2, 3, 0, 3, 4]
+# points=[3, 4, 2, 3, 0, 3, 4]
 # credits=[2, 2, 4, 2, 2, 1]
 
 # GPAを求める
