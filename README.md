@@ -219,7 +219,7 @@ print(f"grade={grade},calc(grage)={calc(grade)}")
 
 **4.2 Pythonプログラムファイル（「モジュール」とも呼ばれる）**
 
-**ファイル名：**`foo.py` (**関数`calc()`**を定義するモジュール)
+**ファイル名：**`foo.py` (関数`calc()`を定義するモジュール)
 
 ```python
 PI = 3.14159
