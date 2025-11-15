@@ -85,7 +85,7 @@ print(f"a={a}, b={b}, d={d:.3f}")
 
 a[1] = 3.0 # 要素の変更
 #エラー：TypeError: 'tuple' object does not support item assignment
-```
+
 #タブルに代入するとき、( )を省略できる
 tama, pochi = 'わんこ', 'ねこ'
 print(f"tama={tama}, pochi={pochi}")
@@ -95,7 +95,7 @@ print(f"tama={tama}, pochi={pochi}")
 tama, pochi = pochi, tama
 print(f"tama={tama}, pochi={pochi}")
 #出力：tama=ねこ, pochi=わんこ
-
+```
 
 **2.3 辞書(`dict`)：`{キー1: 値1, キー2: 値2, ...}`**
 
