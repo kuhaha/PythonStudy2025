@@ -255,7 +255,7 @@ def calc(grade):
 **ファイル名：**`main1.py` (**モジュール`foo`を読み込む**)
 
 ```python
-# ジュールfooをインストール
+# ジュールfooをインポート
 import foo
 grade = 89
 
