@@ -1,4 +1,4 @@
-from .foo import PI, calc
-from .bar import E, add, exp, mul
+from .foo import *
+from .bar import *
 
-__all__= ['calc', 'add', 'exp', 'PI', 'E', ]
+__all__= ['calc', 'add', 'exp', 'PI', 'E', ] # エラー確認のために、'mul'が含まれないようにしている
